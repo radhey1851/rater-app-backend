@@ -1,0 +1,1 @@
+Backend code for rater app created during SMART India Hackathon.(incomplete)
